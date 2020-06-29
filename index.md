@@ -7,5 +7,6 @@ Bewohner einsetzen.
  * Wind
  * Feuersturm
  * Eis
-*Liebt anderen zu helfen
+* Liebt anderen zu helfen
+  
 
