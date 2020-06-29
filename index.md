@@ -6,4 +6,6 @@ Bewohner einsetzen.
  * Schneesturm
  * Wind
  * Feuersturm
-*Liebt anderen zu helfen
+ * Eis
+* Liebt anderen zu helfen
+
