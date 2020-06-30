@@ -6,4 +6,11 @@ Bewohner einsetzen.
  * Schneesturm
  * Wind
  * Feuersturm
+<<<<<<< HEAD
 * Liebt anderen zu helfen
+=======
+ * Eis
+* Liebt anderen zu helfen
+  
+
+>>>>>>> 56b83394ac7b611849ccde598d4cd149e882aac9
